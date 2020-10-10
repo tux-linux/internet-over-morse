@@ -9,7 +9,7 @@ A little video: https://youtu.be/a7YOWXlUSWg
 ## How do I use this?
 Well, first you can choose **not** to use it. But if you're sure, then you have to have those things:
 <br>
-**1.** multimon-ng on your decoder machine, which **has** to be a Linux machine, however you'll experience many problems, I think...
+**1.** multimon-ng on your decoder machine, which **has** to be a Linux machine, otherwise you'll experience many problems, I think...
 <br>
 **2.** https://github.com/sunny256/cwwav to generate the morse code. It has to be above (in the upper directory) the Python files and needs to be already compiled.
 <br>
